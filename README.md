@@ -2,7 +2,7 @@
 I am an enthusiastic individual with a good work ethic, looking for a role that will challenge me and provide new learning opportunities. I transitioned from a successful role as the evening cleaning team leader at ISS to start an exciting career in the tech industry
  When working within a team, I always adopt a friendly attitude, am open to input from others and eager to learn. I enjoy taking on new tasks which allow me to apply my problem solving and critical thinking skills to find a solution. 
 
-- You can reach me benjdixon96@yahoo.co.uk
+- You can reach me at benjdixon96@yahoo.co.uk
 
 # My Projects
 | Title  | About | Tech Stack |
