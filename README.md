@@ -2,6 +2,14 @@
 I am an enthusiastic individual with a good work ethic, looking for a role that will challenge me and provide new learning opportunities. I transitioned from a successful role as the evening cleaning team leader at ISS to start an exciting career in the tech industry
  When working within a team, I always adopt a friendly attitude, am open to input from others and eager to learn. I enjoy taking on new tasks which allow me to apply my problem solving and critical thinking skills to find a solution. 
 
+# Education
+- Python
+- SQL
+- Mongodb 
+- Agile/XP
+- JavaScript, React
+- Kotlin
+- Html, CSS
 
 # My Projects
 | Title  | About | Tech Stack |
@@ -17,7 +25,6 @@ I am an enthusiastic individual with a good work ethic, looking for a role that 
 
 
 ## ISS (Sept 2022 - Aug 2023) Team Leader
- - I was responsible for training staff
  - I helped implement new strategies 
 
 # Skills
@@ -30,14 +37,6 @@ I am an enthusiastic individual with a good work ethic, looking for a role that 
 ## Communication
 - During my time as team leader I helped implement a new cleaning strategy, this involved careful planning and communication. Through this process I gained valuable experience implementing a plan to someone else's specifications. Through makers I was able to learn the importance of clear communication in a tech environment       
 
-# Education
-- Python
-- SQL
-- Mongodb 
-- Agile/XP
-- JavaScript, React
-- Kotlin
-- Html, CSS
 
 # Hobbies
 - Running 
