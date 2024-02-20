@@ -1,16 +1,19 @@
 # 👋 Hi, I’m Ben Dixon
-I am an enthusiastic individual with a good work ethic, looking for a role that will challenge me and provide new learning opportunities. I transitioned from a successful role as the evening cleaning team leader at ISS to start an exciting career in the tech industry
+I am an enthusiastic individual with a good work ethic, looking for a role that will challenge me and provide new learning opportunities. I transitioned from a successful role as the evening cleaning team leader at ISS to start an exciting career in the tech industry.
+I recently completed Makers boot camp where I got the opportunity to learn various new tech skills and was also introduced to test driven development and working in an agile manner.
  When working within a team, I always adopt a friendly attitude, am open to input from others and eager to learn. I enjoy taking on new tasks which allow me to apply my problem solving and critical thinking skills to find a solution. 
 
+
+
 # Education
+
 ## Makers Academy (sept 2023 to Jan 2024)
-- Python
-- SQL
-- Mongodb 
-- Agile/XP
-- JavaScript, React
-- Kotlin
-- Html, CSS
+- In a short period of time I was able to learn Python, Kotlin, Android studio, Html, CSS, JavaScript including React, Worked on databases with SQL and Mongodb, and used jest and pytest for testing.
+  
+- I also got the chance to work on several group projects, allowing me to further develop my communication skills. I got used to pair programming and helped organize our projects around an agile framework.
+  
+
+
 
 # My Projects
 | Title  | About | Tech Stack |
