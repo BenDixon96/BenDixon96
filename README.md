@@ -3,6 +3,7 @@ I am an enthusiastic individual with a good work ethic, looking for a role that 
  When working within a team, I always adopt a friendly attitude, am open to input from others and eager to learn. I enjoy taking on new tasks which allow me to apply my problem solving and critical thinking skills to find a solution. 
 
 # Education
+## Makers Academy (sept 2023 to Jan 2024)
 - Python
 - SQL
 - Mongodb 
