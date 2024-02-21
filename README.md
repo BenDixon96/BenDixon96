@@ -29,7 +29,8 @@ I recently completed Makers boot camp where I got the opportunity to learn vario
 
 
 ## ISS (Sept 2022 - Aug 2023) Team Leader
- - I helped implement new strategies 
+- I was responsible for training staff
+- I helped implement new strategies 
 
 # Skills
 ## Training
