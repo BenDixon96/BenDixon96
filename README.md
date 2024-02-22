@@ -20,7 +20,7 @@ I recently completed Makers boot camp where I got the opportunity to learn vario
 | :-------------: | :------------- | ------------- |
 |[Boozers Weepers](https://github.com/Catherine-Russell/TeamTavern) | A fun way to keep track of low stake bets between friends. It allows users to challenge other users and for the challenged user to accept or deny requests. The site will notify users when bets are due to be settled.|MERN|
 |[AceBook](https://github.com/clairep94/acebook-team-griffins) |A facebook clone. Users are able to sign up, make posts,comment and like each other's posts and upload photos. The site also has a trending feature, post trend depending on how many recent comments it has.|MERN|
-|[MBNB](https://github.com/hjtrhodes/makersbnb-python-seed)| An AirBNB clone. Users can sign up to the site, list space and book spaces for a single night.|  Python, Flask, PostgreSQL |
+|[MBNB](https://github.com/hjtrhodes/makersbnb-python-seed)| An AirBNB clone. Signed up users can list there own spaces and book spaces for a single night.|  Python, Flask, PostgreSQL |
 
 # Work Experience
 ## ISS (Oct .2021 - Sept 2022) Cleaner
